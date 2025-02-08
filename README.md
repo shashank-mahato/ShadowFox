@@ -13,8 +13,7 @@ At **ShadowFox**, we believe in harmonizing **effort and reward**. We value dedi
 This repository includes:
 
 📌 Project files  
-📌 Code implementations  
-📌 Research and documentation related to AI/ML tasks  
+📌 Code implementations   
 
 ## 🙌 Acknowledgment
 I am grateful for the opportunity to be part of **ShadowFox** and for the valuable **learning experience** provided during this internship. 🎓✨
